@@ -1,0 +1,16 @@
+{
+  "cakes": [
+    {
+      "id": 1,
+      "name": "Red Velvet",
+      "cost": 120,
+      "imageUrl": "https://www.fnp.com/images/pr/l/v20220202161510/valentine-s-heart-red-velvet-cake_1.jpg"
+    },
+    {
+      "name": "Black Forest",
+      "imageUrl": "https://www.fnp.com/images/pr/l/v20210115202644/teddy-on-top-black-forest-heart-cake-half-kg_1.jpg",
+      "cost": 500,
+      "id": 2
+    }
+  ]
+}
